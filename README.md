@@ -1,6 +1,8 @@
 # Bluewild
 Bluewild-Remake
 
+Issue와 PR 환영
+
 # Bluewild-skill
 태양만세 능력 플러그인
 
@@ -32,8 +34,3 @@ TMI: 함정이 있다. /shop 명령어를 통해 소환한 npc는 reload/restart
 §7§l광부
 
 이와 같은 이름으로 생명체를 소환 후 클릭하여 열어야 한다.
-
-
-
-
-위 플러그인 모두 Issue와 PR 환영
