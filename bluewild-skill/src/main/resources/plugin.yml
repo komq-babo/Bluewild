@@ -1,0 +1,8 @@
+name: Bluewildskill
+main: io.github.koba.bluewildskill.BluewildskillPlugin
+api-version: 1.19
+version: 1.0.0
+author: Koba
+depend: [Kotlin]
+libraries:
+  - io.github.monun:kommand-core:3.0.0
