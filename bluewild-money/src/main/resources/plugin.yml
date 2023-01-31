@@ -1,0 +1,10 @@
+name: Bluewildmoney
+main: io.github.koba.bluewildmoney.BluewildmoneyPlugin
+api-version: 1.19
+version: 1.0.0
+author: Koba
+depend: [Kotlin]
+libraries:
+  - io.github.monun:kommand-core:3.0.0
+  - io.github.monun:invfx-core:3.2.0
+  - io.github.monun:tap-core:4.8.0

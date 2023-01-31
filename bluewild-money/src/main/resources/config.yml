@@ -1,0 +1,9 @@
+shop:
+  skin:
+    specialshop: "bluewindow"
+    butchershop: "komq_babo"
+    dragonshop: "komq_babo"
+    nethershop: "komq_babo"
+    minershop: "komq_babo"
+    weaponshop: "komq_babo"
+    wanderershop: "bIuewindow"
